@@ -1,0 +1,15 @@
+h1{
+  color: Blue;
+  font-size: 30px;
+  font-style: italic;
+}
+h2{
+  color : #f4418c;
+}
+p{
+  font-family: sans-serif;
+}
+ol{
+  font-style: oblique;
+  font-weight: normal;
+}
